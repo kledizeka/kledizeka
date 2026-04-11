@@ -41,7 +41,7 @@ I build backend systems that handle real-world scale, financial data, and high-t
 
 **Infra & Tools**
 - Redis
-- Background Jobs / Queues (BullMQ)
+- Background Jobs / Queues (RabbitMq)
 - CI/CD
 - Git
 
