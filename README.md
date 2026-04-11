@@ -1,6 +1,6 @@
 <h1 align="center">Kledi Zeka</h1>
 <p align="center">
-  Backend Engineer • Systems Builder • Web3
+  Full Stack Engineer • Systems Builder • Web3
 </p>
 
 ---
