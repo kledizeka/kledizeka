@@ -45,24 +45,12 @@ I build backend systems that handle real-world scale, financial data, and high-t
 - CI/CD
 - Git
 
----
 
-### 🔗 Web3 / Blockchain
-
-- Smart Contracts (ERC-20, ERC-721, ERC-1155, ERC-4626)
-- Ethereum, BSC, Arbitrum, Solana
-- Ethers.js / Web3.js
-- On-chain / off-chain data synchronization
-- Transaction flows & gas optimization
-
----
 
 ### 🧠 Current Focus
 
 - High-performance backend systems
 - AI integrations into real products
-- Web3 infrastructure & DApps
-
 ---
 
 ### 📫 Contact
